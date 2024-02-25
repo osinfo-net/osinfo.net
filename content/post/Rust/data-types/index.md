@@ -1,7 +1,7 @@
 +++
 author =  "Héctor Ruiz"
 title =  "Data types"
-date = "2022-09-18"
+date = "2023-09-18"
 description = "In this article we will Rust data types and how they behave"
 tags = [ 
     "practitioner",

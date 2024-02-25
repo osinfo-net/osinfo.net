@@ -1,7 +1,7 @@
-baseurl: https://example.com
+baseurl: https://osinfo.net
 languageCode: en-us 
 paginate: 5
-title: Example Site
+title: Open Source Info
 module:
   # uncomment line below for temporary local development of module
   # replacements: "github.com/CaiJimmy/hugo-theme-stack/v3 -> ../../hugo-theme-stack"
@@ -48,7 +48,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/osinfo.png
+            src: img/osinfo.jpeg
 
     article:
         math: false
@@ -89,7 +89,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: light
 
     imageProcessing:
         cover:

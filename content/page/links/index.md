@@ -1,20 +1,33 @@
 ---
 title: Links
 date: 2022-09-18
-links:
-  - title: GitHub OS Info
-    description: OS Info github account.
-    website: https://github.com/osinfo-net
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: GitHub IT-Noobie
-    description: Main contributor of Rust pages.
-    website: https://github.com/IT-Noobie
-    image: it-noobie.png
+linkSection:
+  - title: Héctor
+    links:
+      - title: GitHub
+        description: Personal GitHub account.
+        website: https://github.com/osinfo-net
+        image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+
+  - title: lockedinspace
+    links:
+      - title: GitHub
+        description: Personal GitHub account.
+        website: https://github.com/lockedinspace
+        image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+
+  # - title: Gonzalo
+  #   links:
+  #     - title: GitHub OS Info
+  #       description: OS Info github account.
+  #       website: https://github.com/osinfo-net
+  #       image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+
 menu:
     main: 
         weight: -50
         params:
-            icon: link 
+            icon: user
 
 comments: false
 ---
