@@ -11,7 +11,7 @@ categories = [
     "Rust"
 ]
 series = ["Themes Guide"]
-image = "rust.jpg"
+
 
 [[links]]
 title = "GitHub OS Info"

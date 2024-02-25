@@ -11,6 +11,18 @@ menu:
         weight: -90
         params:
             icon: user
+links:
+  - title: GitHub OS Info
+    description: OS Info github account.
+    website: https://github.com/osinfo-net
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: GitHub Héctor Ruiz
+    description: Main contributor of Rust pages.
+    website: https://github.com/hectorruiz-it
+    image: it-noobie.png
+
+comments: false
+
 ---
 ## Who we are
 Open Source Info is a bunch of people with the idea to create a centralized platform of documentation. This website is aimed to have documentation about:
